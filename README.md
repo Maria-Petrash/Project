@@ -1,3 +1,4 @@
+
 # Data analyst
 **Описание проектов**
 | Наименование проекта| Задачи проекта| Инструменты и навыки|
@@ -17,4 +18,4 @@
 |13.[Определение наиболее выгодного региона нефтедобычи](https://github.com/Maria-Petrash/Project/blob/main/13.%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B8%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5%20%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%20%D0%BD%D0%B5%D1%84%D1%82%D0%B5%D0%B4%D0%BE%D0%B1%D1%8B%D1%87%D0%B8.ipynb)|На основе данных выбрать район добычи нефти|Python Pandas Scikit-learn Машинное обучение Регрессия Разработка бизнес-модели Финансовый аналитик|
 
 **Программа обучения:**
-[Петраш Мария Викторовна_20232ЦПДС00115.pdf](https://github.com/Maria-Petrash/Project/files/11472757/_20232.00115.pdf)
+![cdcdafe350a64a7cf6c670fdfa0ca217da7vyqq3uw82x22Y-1](https://github.com/Maria-Petrash/Project/assets/133514185/608a4ca8-e25d-437b-af14-726157a40585)
